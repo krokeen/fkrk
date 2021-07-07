@@ -95,7 +95,7 @@ body{
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     transition-duration: 0.5s;
 }
-@media only screen and (max-width: 768px){
+@media only screen and (min-width: 600px){
     .he{
         font-family: 'Jomhuria', cursive;
         padding-top: 25px;
@@ -175,4 +175,4 @@ body{
         }
       
     }
-    
+
